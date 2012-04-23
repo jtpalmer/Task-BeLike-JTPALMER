@@ -32,6 +32,32 @@ __END__
 
 =pkg Dist::Zilla
 
+=pkg Dist::Zilla::Plugin::AutoPrereqs
+
+=pkg Dist::Zilla::Plugin::EOLTests
+
+=pkg Dist::Zilla::Plugin::Git::NextVersion
+
+=pkg Dist::Zilla::Plugin::GitHub::Meta
+
+=pkg Dist::Zilla::Plugin::MetaJSON
+
+=pkg Dist::Zilla::Plugin::NextRelease
+
+=pkg Dist::Zilla::Plugin::NoTabsTests
+
+=pkg Dist::Zilla::Plugin::PkgVersion
+
+=pkg Dist::Zilla::Plugin::PodSyntaxTests
+
+=pkg Dist::Zilla::Plugin::PodVersion
+
+=pkg Dist::Zilla::Plugin::TaskWeaver
+
+=pkg Dist::Zilla::PluginBundle::Basic
+
+=pkg Dist::Zilla::PluginBundle::Git
+
 =pkg Alien::Base
 
 =pkg File::ShareDir
