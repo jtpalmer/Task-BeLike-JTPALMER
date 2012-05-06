@@ -28,6 +28,12 @@ __END__
 
 =pkg namespace::autoclean
 
+=pkgroup Testing
+
+=pkg Test::MockObject
+
+=pkg Test::WWW::Mechanize
+
 =pkgroup Toolchain
 
 =pkg Dist::Zilla
