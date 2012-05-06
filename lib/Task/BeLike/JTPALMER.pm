@@ -148,6 +148,10 @@ __END__
 
 =pkg BerkeleyDB
 
+=pkgroup Vim Support
+
+=pkg Text::FindIndent
+
 =pkgroup Financial Modules
 
 =pkg Finance::Quote
