@@ -24,6 +24,8 @@ __END__
 
 =pkg Any::Moose
 
+=pkg Moo
+
 =pkg namespace::clean
 
 =pkg namespace::autoclean
