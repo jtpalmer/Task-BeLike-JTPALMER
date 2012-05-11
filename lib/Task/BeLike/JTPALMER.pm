@@ -120,6 +120,8 @@ __END__
 
 =pkg IO::All
 
+=pkg Imager
+
 =pkgroup Templating
 
 =pkg Template
