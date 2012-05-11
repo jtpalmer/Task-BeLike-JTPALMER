@@ -54,6 +54,8 @@ __END__
 
 =pkg Dist::Zilla::Plugin::PodVersion
 
+=pkg Dist::Zilla::Plugin::PodWeaver
+
 =pkg Dist::Zilla::Plugin::TaskWeaver
 
 =pkg Dist::Zilla::PluginBundle::Basic
