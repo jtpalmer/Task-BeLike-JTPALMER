@@ -168,6 +168,8 @@ __END__
 
 =pkg DBD::SQLite
 
+=pkg DBD::mysql
+
 =pkg DBIx::Class
 
 =pkg BerkeleyDB
