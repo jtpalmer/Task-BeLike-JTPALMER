@@ -36,7 +36,7 @@ __END__
 
 =pkg Test::WWW::Mechanize
 
-=pkgroup Toolchain
+=pkgroup Dist::Zilla
 
 =pkg Dist::Zilla
 
@@ -67,6 +67,10 @@ __END__
 =pkg Dist::Zilla::PluginBundle::Basic
 
 =pkg Dist::Zilla::PluginBundle::Git
+
+=pkg Dist::Zilla::PluginBundle::Author::JTPALMER
+
+=pkgroup Module Authoring
 
 =pkg Alien::Base
 
