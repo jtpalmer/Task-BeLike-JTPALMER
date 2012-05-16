@@ -172,5 +172,9 @@ __END__
 
 =pkg Finance::Quote
 
+=pkgroup Interactive Shells
+
+=pkg Devel::REPL
+
 =cut
 
