@@ -148,7 +148,13 @@ __END__
 
 =pkg Catalyst::Devel
 
+=pkg Catalyst::Manual
+
 =pkg Catalyst::Engine::PSGI
+
+=pkg Catalyst::View::TT
+
+=pkg Catalyst::Model::DBIC::Schema
 
 =pkgroup Command Line Development
 
