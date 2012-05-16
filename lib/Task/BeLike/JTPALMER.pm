@@ -46,7 +46,7 @@ __END__
 
 =pkg Dist::Zilla::Plugin::Git::NextVersion
 
-=pkg Dist::Zilla::Plugin::GitHub::Meta
+=pkg Dist::Zilla::Plugin::GithubMeta
 
 =pkg Dist::Zilla::Plugin::MetaJSON
 
