@@ -158,6 +158,8 @@ __END__
 
 =pkgroup Command Line Development
 
+=pkg App::Cmd
+
 =pkg MooseX::App::Cmd
 
 =pkgroup Database Support
