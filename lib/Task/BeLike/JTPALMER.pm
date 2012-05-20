@@ -36,6 +36,8 @@ __END__
 
 =pkg Test::WWW::Mechanize
 
+=pkg Test::Pod 1.41
+
 =pkgroup Dist::Zilla
 
 =pkg Dist::Zilla
