@@ -176,6 +176,16 @@ __END__
 
 =pkg BerkeleyDB
 
+=pkgroup Event Loops and Asynchronous Programming
+
+=pkg POE
+
+=pkg EV
+
+=pkg AnyEvent
+
+=pkg Coro
+
 =pkgroup Vim Support
 
 =pkg Text::FindIndent
