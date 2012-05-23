@@ -106,6 +106,12 @@ __END__
 
 =pkg JSON::XS
 
+=pkgroup More File Parsing
+
+=pkg HTML::Parser
+
+=pkg Parse::IRCLog
+
 =pkgroup Email
 
 =pkg Email::Sender
