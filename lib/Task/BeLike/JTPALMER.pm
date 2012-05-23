@@ -32,6 +32,8 @@ __END__
 
 =pkgroup Testing
 
+=pkg Test::More
+
 =pkg Test::MockObject
 
 =pkg Test::WWW::Mechanize
