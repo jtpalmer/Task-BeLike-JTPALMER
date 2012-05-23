@@ -130,6 +130,10 @@ __END__
 
 =pkg DateTime
 
+=pkg Date::Manip
+
+=pkg Time::HiRes
+
 =pkg Regexp::Common
 
 =pkg IO::All
