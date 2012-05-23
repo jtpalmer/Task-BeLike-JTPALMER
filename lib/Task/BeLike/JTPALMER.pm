@@ -192,6 +192,14 @@ __END__
 
 =pkg Coro
 
+=pkgroup Hashing Algorithms
+
+=pkg Digest::MD5
+
+=pkg Digest::SHA
+
+=pkg Digest::HMAC
+
 =pkgroup Vim Support
 
 =pkg Text::FindIndent
