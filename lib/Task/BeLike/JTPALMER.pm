@@ -62,6 +62,8 @@ __END__
 
 =pkg Dist::Zilla::Plugin::PodSyntaxTests
 
+=pkg Dist::Zilla::Plugin::PodCoverageTests
+
 =pkg Dist::Zilla::Plugin::PodVersion
 
 =pkg Dist::Zilla::Plugin::PodWeaver
