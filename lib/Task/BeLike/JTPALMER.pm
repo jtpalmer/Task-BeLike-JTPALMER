@@ -42,6 +42,8 @@ __END__
 
 =pkg Test::Pod::Coverage 1.08
 
+=pkg Pod::Coverage::TrustPod
+
 =pkgroup Dist::Zilla
 
 =pkg Dist::Zilla
