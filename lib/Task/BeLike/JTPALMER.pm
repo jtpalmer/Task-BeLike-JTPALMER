@@ -114,6 +114,20 @@ __END__
 
 =pkg Parse::IRCLog
 
+=pkgroup Spreadsheets
+
+=pkg Text::CSV
+
+=pkg Text::CSV_XS
+
+=pkg Spreadsheet::ParseExcel
+
+=pkg Spreadsheet::WriteExcel
+
+=pkg Excel::Reader::XLSX
+
+=pkg Excel::Writer::XLSX
+
 =pkgroup Email
 
 =pkg Email::Sender
