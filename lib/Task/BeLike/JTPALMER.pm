@@ -40,6 +40,8 @@ __END__
 
 =pkg Test::Pod 1.41
 
+=pkg Test::Pod::Coverage 1.08
+
 =pkgroup Dist::Zilla
 
 =pkg Dist::Zilla
