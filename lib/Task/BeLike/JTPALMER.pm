@@ -74,6 +74,10 @@ __END__
 
 =pkg Dist::Zilla::Plugin::TaskWeaver
 
+=pkg Dist::Zilla::Plugin::MinimumPerl
+
+=pkg Dist::Zilla::Plugin::CopyReadmeFromBuild
+
 =pkg Dist::Zilla::PluginBundle::Basic
 
 =pkg Dist::Zilla::PluginBundle::Git
