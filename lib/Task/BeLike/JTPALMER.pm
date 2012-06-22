@@ -170,6 +170,8 @@ __END__
 
 =pkg Imager
 
+=pkg Archive::Tar::Wrapper
+
 =pkgroup Templating
 
 =pkg Template
