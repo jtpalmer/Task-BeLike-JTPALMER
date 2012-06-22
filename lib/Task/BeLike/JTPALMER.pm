@@ -132,7 +132,7 @@ __END__
 
 =pkg Spreadsheet::WriteExcel
 
-=pkg Excel::Reader::XLSX
+=pkg Spreadsheet::XLSX
 
 =pkg Excel::Writer::XLSX
 
