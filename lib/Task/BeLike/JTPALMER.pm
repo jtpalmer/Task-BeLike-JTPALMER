@@ -78,6 +78,8 @@ __END__
 
 =pkg Dist::Zilla::Plugin::InstallGuide
 
+=pkg Dist::Zilla::Plugin::ReadmeFromPod
+
 =pkg Dist::Zilla::Plugin::CopyReadmeFromBuild
 
 =pkg Dist::Zilla::PluginBundle::Basic
