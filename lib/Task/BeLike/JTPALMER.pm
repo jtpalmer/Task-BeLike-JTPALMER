@@ -1,12 +1,15 @@
 package Task::BeLike::JTPALMER;
-use strict;
-use warnings;
 
 # ABSTRACT: Modules used by JTPALMER
+
+use strict;
+use warnings;
 
 1;
 
 __END__
+
+=pod
 
 =pkgroup CPAN Shell
 
