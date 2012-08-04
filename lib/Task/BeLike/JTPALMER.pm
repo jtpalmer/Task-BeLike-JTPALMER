@@ -11,41 +11,41 @@ __END__
 
 =pod
 
+=pkgroup Applications
+
+=pkg App::perlbrew
+
+=pkg App::cpanminus
+
+=pkg App::Ack
+
+=pkg App::Nopaste
+
+=pkg Perl::Tidy
+
+=pkg Perl::Critic
+
 =pkgroup CPAN Shell
 
 =pkg Term::ReadLine::Perl
 
-=pkgroup Object/Class Modules
+=pkgroup Command Line Development
 
-=pkg parent
+=pkg App::Cmd
 
-=pkg Moose
+=pkg MooseX::App::Cmd
 
-=pkg MooseX::Types
+=pkgroup Database Support
 
-=pkg Mouse
+=pkg DBI
 
-=pkg Any::Moose
+=pkg DBD::SQLite
 
-=pkg Moo
+=pkg DBD::mysql
 
-=pkg namespace::clean
+=pkg DBIx::Class
 
-=pkg namespace::autoclean
-
-=pkgroup Testing
-
-=pkg Test::More
-
-=pkg Test::MockObject
-
-=pkg Test::WWW::Mechanize
-
-=pkg Test::Pod 1.41
-
-=pkg Test::Pod::Coverage 1.08
-
-=pkg Pod::Coverage::TrustPod
+=pkg BerkeleyDB
 
 =pkgroup Dist::Zilla
 
@@ -91,31 +91,47 @@ __END__
 
 =pkg Dist::Zilla::PluginBundle::Author::JTPALMER
 
+=pkgroup Email
+
+=pkg Email::Sender
+
+=pkg Email::Simple
+
+=pkg Email::Valid
+
+=pkg Email::MIME
+
+=pkg Email::MIME::Kit
+
+=pkgroup Event Loops and Asynchronous Programming
+
+=pkg POE
+
+=pkg EV
+
+=pkg AnyEvent
+
+=pkg Coro
+
+=pkgroup Graphical Programming
+
+=pkg SDL
+
+=pkg OpenGL
+
+=pkgroup Image Manipulation
+
+=pkg GD
+
+=pkg Imager
+
 =pkgroup Module Authoring
 
 =pkg Alien::Base
 
 =pkg File::ShareDir
 
-=pkgroup Applications
-
-=pkg App::perlbrew
-
-=pkg App::cpanminus
-
-=pkg App::Ack
-
-=pkg App::Nopaste
-
-=pkg Perl::Tidy
-
-=pkg Perl::Critic
-
-=pkgroup Module Installation
-
-=pkg local::lib
-
-=pkgroup Configuration File Parses
+=pkgroup File Parsers
 
 =pkg Config::Tiny
 
@@ -123,11 +139,49 @@ __END__
 
 =pkg JSON::XS
 
-=pkgroup More File Parsing
-
 =pkg HTML::Parser
 
 =pkg Parse::IRCLog
+
+=pkgroup Financial Modules
+
+=pkg Finance::Quote
+
+=pkgroup Hashing Algorithms
+
+=pkg Digest::MD5
+
+=pkg Digest::SHA
+
+=pkg Digest::HMAC
+
+=pkgroup Interactive Shells
+
+=pkg Devel::REPL
+
+=pkgroup Object/Class Modules
+
+=pkg Moose
+
+=pkg MooseX::Types
+
+=pkg Mouse
+
+=pkg Any::Moose
+
+=pkg Moo
+
+=pkgroup Pragmas
+
+=pkg namespace::clean
+
+=pkg namespace::autoclean
+
+=pkg local::lib
+
+=pkg parent
+
+=pkg strictures
 
 =pkgroup Spreadsheets
 
@@ -143,17 +197,23 @@ __END__
 
 =pkg Excel::Writer::XLSX
 
-=pkgroup Email
+=pkgroup Templating
 
-=pkg Email::Sender
+=pkg Template
 
-=pkg Email::Simple
+=pkgroup Testing
 
-=pkg Email::Valid
+=pkg Test::More
 
-=pkg Email::MIME
+=pkg Test::MockObject
 
-=pkg Email::MIME::Kit
+=pkg Test::WWW::Mechanize
+
+=pkg Test::Pod 1.41
+
+=pkg Test::Pod::Coverage 1.08
+
+=pkg Pod::Coverage::TrustPod
 
 =pkgroup Utilities
 
@@ -175,13 +235,11 @@ __END__
 
 =pkg IO::All
 
-=pkg Imager
-
 =pkg Archive::Tar::Wrapper
 
-=pkgroup Templating
+=pkgroup Vim Support
 
-=pkg Template
+=pkg Text::FindIndent
 
 =pkgroup Web Development
 
@@ -202,54 +260,6 @@ __END__
 =pkg Catalyst::View::TT
 
 =pkg Catalyst::Model::DBIC::Schema
-
-=pkgroup Command Line Development
-
-=pkg App::Cmd
-
-=pkg MooseX::App::Cmd
-
-=pkgroup Database Support
-
-=pkg DBI
-
-=pkg DBD::SQLite
-
-=pkg DBD::mysql
-
-=pkg DBIx::Class
-
-=pkg BerkeleyDB
-
-=pkgroup Event Loops and Asynchronous Programming
-
-=pkg POE
-
-=pkg EV
-
-=pkg AnyEvent
-
-=pkg Coro
-
-=pkgroup Hashing Algorithms
-
-=pkg Digest::MD5
-
-=pkg Digest::SHA
-
-=pkg Digest::HMAC
-
-=pkgroup Vim Support
-
-=pkg Text::FindIndent
-
-=pkgroup Financial Modules
-
-=pkg Finance::Quote
-
-=pkgroup Interactive Shells
-
-=pkg Devel::REPL
 
 =cut
 
